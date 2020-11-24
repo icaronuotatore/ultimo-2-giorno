@@ -1,0 +1,5 @@
+Credentials cache: API:01087641-9D83-43CC-BDF4-00D9239AE651
+        Principal: nmassa@42ROMA.IT
+
+  Issued                Expires               Principal
+Nov 23 18:39:18 2020  Nov 24 04:39:18 2020  krbtgt/42ROMA.IT@42ROMA.IT
